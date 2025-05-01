@@ -82,10 +82,7 @@ export default function Home() {
       </div>
 
       <footer className="py-4 flex justify-center pb-8">
-        <a className="footer-text text-sm flex items-center gap-1"
-           href="https://yashavsarmal.netlify.app/" target="_blank" >
-          WeatherPro - An Next Js Weather App
-        </a>
+        <p>WeatherPro - An Next Js Weather App</p>
 
       </footer>
 

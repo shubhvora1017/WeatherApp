@@ -31,7 +31,7 @@ To get started with WeatherPro, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yashavsarmal30/weather-pro.git
+   git clone https://github.com/shubhvora1017/WeatherApp.git
    ```
 
 2. Install dependencies:
@@ -62,10 +62,6 @@ To get started with WeatherPro, follow these steps:
 
 - Upon launching the application, users can view the current weather information for their location.
 - Users can switch between light and dark themes using the theme toggle button.
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to [create an issue](https://github.com/yashavsarmal30/weather-pro/issues) or submit a pull request.
 
 ## License
 
